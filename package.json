@@ -1,6 +1,6 @@
 {
   "name": "@danelowe/std-rnnn",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "std.rnnn Recurrent Neural Network model for noise reduction in ffmpeg. From Xiph rnnoise.",
   "main": "dist/index.js",
   "types": "./dist/index.d.ts",
